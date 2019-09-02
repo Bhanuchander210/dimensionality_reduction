@@ -1,0 +1,12 @@
+{
+  "data": "iris.csv",
+  "columns": [
+    "sepal.length",
+    "sepal.width",
+    "petal.length",
+    "petal.width"
+  ],
+  "label": "variety",
+  "method": "tsne",
+  "output_csv": "out.csv"
+}
